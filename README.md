@@ -1,5 +1,6 @@
 # ColorGenBerry Executable (EXE) game on Windows, Mac and Linux.
 **This is the latest version of ColorGenBerry. (Patch 1.2)**
+<br>**For More Information Visit: [Straberry Game Repository](https://github.com/mmejiasGitHub/Strawberry-Game)**
 > [!IMPORTANT]
 >-There are improvements in the main menu.
 ><br>-Hardcore mode has been added.
