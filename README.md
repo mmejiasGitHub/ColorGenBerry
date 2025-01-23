@@ -1,4 +1,4 @@
-# ColorGenBerry Executable (EXE) game on Windowns, Mac and Linux.
+# ColorGenBerry Executable (EXE) game on Windows, Mac and Linux.
 **This is the latest version of ColorGenBerry. (Patch 1.2)**
 > [!IMPORTANT]
 >-There are improvements in the main menu.
